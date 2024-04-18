@@ -1,6 +1,6 @@
 # Predictive-models-of-miscarriage
 
-Models developed in the paper,  "Predictive models of miscarriage based on data from a preconception cohort study" are provided in this repository.
+Our models developed in the paper, "Predictive models of miscarriage based on data from a preconception cohort study" are provided in this repository.
 
 ## Citation
 
